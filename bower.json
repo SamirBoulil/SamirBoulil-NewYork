@@ -1,0 +1,10 @@
+{
+  "name": "newyork-countdown",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "~2.1.8",
+    "jquery": "~1.10.2",
+    "momentjs": "~2.4.0"
+  },
+  "devDependencies": {}
+}

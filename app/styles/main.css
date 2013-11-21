@@ -1,0 +1,21 @@
+body {
+	background: #5C4B51;
+}
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+#countdown {
+	margin-top: 30%;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 120px;
+	opacity: 0.9;
+}
